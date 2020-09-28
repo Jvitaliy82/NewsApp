@@ -1,4 +1,4 @@
-package ru.jdeveloperapps.newsapp.api
+package ru.jdeveloperapps.newsapp.models
 
 data class Source(
     val id: Any,

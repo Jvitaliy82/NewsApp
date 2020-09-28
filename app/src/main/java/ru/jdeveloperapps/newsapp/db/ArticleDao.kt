@@ -2,7 +2,7 @@ package ru.jdeveloperapps.newsapp.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import ru.jdeveloperapps.newsapp.api.Article
+import ru.jdeveloperapps.newsapp.models.Article
 
 @Dao
 interface ArticleDao {

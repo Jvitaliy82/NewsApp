@@ -3,6 +3,7 @@ package ru.jdeveloperapps.newsapp.api
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
+import ru.jdeveloperapps.newsapp.models.NewsResponse
 import ru.jdeveloperapps.newsapp.util.Constans.Companion.API_KEY
 
 interface NewsAPI {

@@ -1,4 +1,4 @@
-package ru.jdeveloperapps.newsapp.api
+package ru.jdeveloperapps.newsapp.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

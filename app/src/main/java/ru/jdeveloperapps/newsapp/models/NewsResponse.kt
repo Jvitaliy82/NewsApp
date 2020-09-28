@@ -1,6 +1,4 @@
-package ru.jdeveloperapps.newsapp.api
-
-import ru.jdeveloperapps.newsapp.api.Article
+package ru.jdeveloperapps.newsapp.models
 
 data class NewsResponse(
     val articles: List<Article>,
